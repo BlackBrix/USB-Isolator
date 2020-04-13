@@ -14,5 +14,5 @@ USB port isolator based on an Analog Devices ADuM3160 to protect computers again
 
 ## Shop
 * [USB-Isolator](https://shop.watterott.com/USB-Isolator-galvanische-Trennung) (galvanic isolated Low/Full Speed USB)
-* [Teko SOAP 1 10006/2](https://www.watterott.com/de/Teko-SOAP1-10006-2-5) (Suitable Enclosure) [alternative sourcing](https://www.tme.eu/de/details/10006_2.5/universal-gehause/teko/)    
+* [Teko SOAP 1 10006/2.5](https://www.watterott.com/de/Teko-SOAP1-10006-2-5) (Suitable Enclosure) or: --> [alternative sourcing](https://www.tme.eu/de/en/details/10006_2.5/multipurpose-enclosures/teko/)    
 * https://learn.watterott.com/breakouts/usb-isolator/
