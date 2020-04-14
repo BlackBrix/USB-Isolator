@@ -6,6 +6,7 @@ USB port isolator based on an Analog Devices ADuM3160 to protect computers again
 * [Analog Devices ADuM3160](http://www.analog.com/en/products/interface-isolation/isolation/standard-digital-isolators/adum3160.html) USB Digital Isolator 
 * USB 2.0 compatible
 * Full Speed (12 Mbps, default setting) and Low Speed (1.5 Mbps) switchable via soldering Jumper (typical low speed devices are keyboards, mice)
+* **not** compatible with USB 2.0 "Hi-Speed"-Mode = 480 Mbps
 * Built-in DC-DC converter (up to 400mA output current on Host side)
 * Upstream short-circuit protection
 * USB-Device: microUSB
