@@ -11,6 +11,7 @@ USB port isolator based on an Analog Devices ADuM3160 to protect computers again
 * Upstream short-circuit protection
 * USB-Device: microUSB
 * USB-Host: USB-A
+* Open-Source and released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike License</a>.
 
 
 ## Shop
